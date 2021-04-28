@@ -1,2 +1,2 @@
 # Nested-Class
-We used a nested class
+We created a nested class
